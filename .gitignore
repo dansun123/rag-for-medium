@@ -1,0 +1,10 @@
+.pythonlibs/*
+.upm/*
+poetry.lock
+pyproject.toml
+.replit
+replit.nix
+.env
+venv/
+.DS_Store
+images/
